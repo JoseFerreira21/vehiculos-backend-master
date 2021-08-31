@@ -2,9 +2,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
-# Task
-
-# CRUD REST API con Nest JS, Postgres y Typescript
+# REST API con Nest JS, Postgres y Typescript
 - Este es un proyecto desafío para los pasantes universitarios.
 
 ## Software Requerido
@@ -17,7 +15,7 @@
 - Para instalar las dependencias correr el comando `npm i`
 
 ### CONFIGURAR EL SERVIDOR
-- Crear una base de datos `scsp` enPostgres 
+- Crear una base de datos `flotadatapar` enPostgres 
 
 - Ir a src/app.module.ts y modificar de acuerdo a sus credenciales
 
